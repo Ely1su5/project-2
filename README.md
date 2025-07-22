@@ -16,9 +16,9 @@ This repository contains two related computer vision projects using OpenCV and N
 ![Color Detection Demo](demo_color.gif) <!-- Add your gif/png here -->
 
 A tool that:
-- Detects colors within specified HSV/RGB ranges
+- Detects colors within specified LAB ranges
 - Creates masks for color isolation
-- Works with both images and live video feed
+- Works live video feed
 - Adjustable sensitivity for different lighting conditions
 
 ### 2. Object Counter
