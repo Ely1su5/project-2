@@ -58,11 +58,3 @@ Features:
 </div>
 
 ## Installation
-
-```bash
-# Clone repository
-git clone https://github.com/yourusername/computer-vision-projects.git
-cd computer-vision-projects
-
-# Install dependencies
-pip install -r requirements.txt
