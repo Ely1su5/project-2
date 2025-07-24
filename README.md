@@ -1,5 +1,7 @@
 # Computer Vision Projects: Color Detection & Object Counting
 
+---
+
 <div align="center">
   <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black-2.png" alt="OpenCV Logo" width="200">
   <img src="https://numpy.org/images/logo.svg" alt="NumPy Logo" width="200" style="margin-left: 20px;">
@@ -7,8 +9,10 @@
 
 This repository contains two related computer vision projects using OpenCV and NumPy:
 
-1. **Color Tester**: Identifies and extracts specific color ranges from images/video
+1. **Color Tester**: Identifies and extracts specific color ranges from video
 2. **Object Counter**: Counts objects based on detected colors in real-time
+
+---
 
 ## Projects Overview
 
@@ -29,6 +33,8 @@ Features:
 - Morphological operations for noise reduction
 - Contour detection and area filtering
 - Visual markers and count display
+
+---
 
 ## Shared Technical Stack
 
@@ -57,4 +63,20 @@ Features:
   </table>
 </div>
 
-## Installation
+---
+
+## Packages used
+
+  ```bash
+  pip install opencv-python
+  ```
+
+  ```bash
+  pip install numpy
+  ```
+
+---
+
+## Future objectives
+
+Con estos proyectos no se tienen objetivos futuros pues fueron realizados como un ejercicio de deteccion de colores con opencv en Adakademy con el apoyo del profesor Jesus Alcala.
